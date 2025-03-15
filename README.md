@@ -23,7 +23,7 @@ To get started with the **Movie Recommendation System**, follow these steps:
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/BhaveshBhakta/Movie-Recommendation-System-Using-ML.git
+   git clone https://github.com/amarendranayak149/Movie-Recommendation-System-Using-ML.git
    ```
 2. **Navigate to the project directory**:
    ```bash
