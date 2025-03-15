@@ -1,4 +1,3 @@
-```markdown
 # 🎬 Movie Recommendation System 🎥
 
 ## 📌 Project Overview
